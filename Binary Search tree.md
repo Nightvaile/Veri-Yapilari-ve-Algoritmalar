@@ -11,6 +11,6 @@ Görselde gördüğünüz her bir veri node olarak geçmektektedir ve node’lar
     *   Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer alır.
 Bu kural Recursive olarak sol ve sağ tarafta yer alan subtree’ler içinde geçerlidir.
 <hr>
-####[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları.<br>
+####  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları.<br>
 
 <hr>
