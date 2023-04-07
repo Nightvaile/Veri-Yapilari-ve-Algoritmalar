@@ -1,5 +1,5 @@
 **Merge Sort** Buradaki fikir, daha küçük dizileri sıralamak ve ardından bu dizileri sıralı şekilde bir araya getirip birleştirmektir. Bu algoritmada “recursion” dediğimiz özyinelemeden de yararlanılır.<br>
-![Merge Sort](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/veri-yapilari-algoritmalar/merge-sort/figures/merge-sort.png)
+![Merge Sort](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/veri-yapilari-algoritmalar/merge-sort/figures/merge-sort.png)<br>
 -Dizinin sol yarisini sırala (n>1 olduğunu varsayarak).<br>
 -Dizinin sağ yarisıni sırala (n<1 olduğunu varsayarak).<br>
 -Iki yarim parçayi bir araya getir.<br>
