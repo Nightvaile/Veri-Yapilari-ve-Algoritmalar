@@ -10,19 +10,19 @@ Görselde gördüğünüz her bir veri node olarak geçmektektedir ve node’lar
     *   Root’tan küçük değere sahip olan node’lar Root’un sol tarafında yer alır.
     *   Root’tan büyük değere sahip olan node’lar Root’un sağ tarafında yer alır.
 Bu kural Recursive olarak sol ve sağ tarafta yer alan subtree’ler içinde geçerlidir.
-<hr>
+<hr/>
 #### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları<br>
-    1. 7'yi **root** olarak alıyoruz. <br>
-    2. 5'i 7'nin **soluna**  ekliyoruz. <br>
-    3. 1'i 5'in **soluna** ekliyoruz.<br>
-    4. 8'i 7'nin **soluna** ekliyoruz.<br>
-    5. 3'ü 1'in **sağına** ekliyoruz.<br>
-    6. 6'yı 5'in **sağına** ekliyoruz. <br>
-    7. 0'ı 1'in **soluna** ekliyoruz.<br>
-    8. 9'ü 8'in **sağına** ekliyoruz <br>
-    9. 4'ü 3'in **sağına** ekliyoruz. <br>
-    10. 2'yi 3'ün **soluna** ekliyoruz. <br>
-<hr>
+    1. 7'yi **root** olarak alıyoruz.
+    2. 5'i 7'nin **soluna**  ekliyoruz.
+    3. 1'i 5'in **soluna** ekliyoruz
+    4. 8'i 7'nin **soluna** ekliyoruz
+    5. 3'ü 1'in **sağına** ekliyoruz
+    6. 6'yı 5'in **sağına** ekliyoruz.
+    7. 0'ı 1'in **soluna** ekliyoruz
+    8. 9'ü 8'in **sağına** ekliyoruz
+    9. 4'ü 3'in **sağına** ekliyoruz.
+    10. 2'yi 3'ün **soluna** ekliyoruz.
+<hr/>
 ### Görünümü
                   7
                 /   \
